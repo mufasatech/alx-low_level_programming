@@ -1,4 +1,4 @@
-File 0-strcat.c is a funtion that concatinates two strings
+File 0-strcat.c is a funtion that concatinates two strings \n
 File 1-strncpy.c is a function that concatenates two strings that will use at most n bytes from src.
 File 2-strcpy.c is a function that copies a string
 File 3-strmp.c is a function that compares two strings
