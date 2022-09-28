@@ -7,7 +7,7 @@
  * Return: Always 0
  */
 
-char *strpbrk(char *s, char *accept)
+char *_strpbrk(char *s, char *accept)
 {
 	int b;
 
