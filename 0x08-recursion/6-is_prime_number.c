@@ -3,7 +3,7 @@
 /**
  * _isitprime - looks for prime
  * @n: the number
- * @n: the number / 2
+ * @i: the number / 2
  *
  * Return: 1 if prime, 0 if not
  */
