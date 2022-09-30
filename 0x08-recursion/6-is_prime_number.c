@@ -8,8 +8,7 @@
  * Return: 1 if prime, 0 if not
  */
 
-int _isitprime(int n)
-	int _isitprime(int i)
+int _isitprime(int n, int i)
 {
 	if (i == 1)
 	{
