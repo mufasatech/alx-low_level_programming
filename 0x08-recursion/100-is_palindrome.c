@@ -25,7 +25,7 @@ int _strlen_recursion(char *s)
 
 /**
  * _compareends - checks for matches at either end of a str
- * @s: the string@s: the string
+ * @s: the string
  * @begin: the start
  * @end: the end
  * Return: 0 or 1
