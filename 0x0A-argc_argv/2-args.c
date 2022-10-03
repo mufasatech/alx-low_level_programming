@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdo.h>
 #include "main.h"
 
 /**
@@ -9,13 +9,12 @@
  */
 
 int main(int argc, char *argv[])
-/*Declaring variables*/
 {
-	int i;
+	int arg;
 
-for (i = 0; i < argc; i++)
+for (arg = 0; arg < argc; arg++)
 {
-printf("%s\n", i, argv[i]);
+printf("%s\n", i, argv[arg]);
 }
 return (0);
 }
