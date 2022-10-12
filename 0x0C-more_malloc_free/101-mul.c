@@ -41,7 +41,8 @@ char *create_xarray(int size)
 	array = malloc(sizeof(char) * size);
 
 	if (array == NULL)
-		exit(98);
+
+	exit(98);
 
 	for (index = 0; index < (size - 1); index++)
 		array[index] = 'x';
@@ -95,6 +96,7 @@ int get_digit(char c)
  * @zeroes: The necessary number of leading zeroes.
  *
  * Description: If mult contains a non-digit, the function
+ *              A
  *              exits with a status value of 98.
  */
 void get_prod(char *prod, char *mult, int digit, int zeroes)
